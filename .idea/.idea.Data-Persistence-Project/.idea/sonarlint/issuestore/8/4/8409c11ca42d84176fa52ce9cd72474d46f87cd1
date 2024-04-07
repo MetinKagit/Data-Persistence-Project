@@ -1,0 +1,10 @@
+
+rcsharpsquid:S3903	"*Move 'DataManager' into a named namespace.(ñ”•ûÿÿÿÿÿJ$20617126-95d1-4aa6-aea8-56ae29e9ee71
+“csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÂˆÖ½úÿÿÿÿ8¦•÷¹ë1J$d0523dc7-2f26-4b9d-b3d3-ce265b066b9b
+“csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¦Êó™ûÿÿÿÿ8È§¢ºë1J$bde210fe-0f76-40f7-8763-d0ad91fa6285
+csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ò©Ñ¼8Ÿ‚…¿ë1J$22d20959-8441-4589-8881-fed0b3e2374b
+csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(à®á¸8ÉàÎ½ë1J$bc8a84f1-39ce-494a-a38a-c8d95b1840e2
+csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÁÆ“8ÓŒ¾ë1J$f020efac-a838-491a-9e4e-c34fa2a656b5
+”csharpsquid:S2223"EChange the visibility of 'Instance' or make it 'const' or 'readonly'.(ÂˆÖ½úÿÿÿÿ8§•÷¹ë1J$8183ba26-9ad3-433f-8eca-6a8928486fde
+Ÿcsharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Ä“±Ï8ùÁø¹ë1J$5d6a7ac0-38bf-48ec-a687-c2ec731dcc03
+mcsharpsquid:S125"Remove this commented out code.(Ñ¥Ğ¬úÿÿÿÿ8­™¨½ë1J$4c97e840-9de8-4743-8508-777ea47c1784
